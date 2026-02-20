@@ -2,7 +2,7 @@
 
 A simple full-stack notes application with a Vite + React frontend and an Express backend.
 
-## Live Demo: [text](https://notepad-4lap.onrender.com/)
+## Live Demo: [https://notepad-4lap.onrender.com/](https://notepad-4lap.onrender.com/)
 Note: This application is hosted on Renders free tier. The server will take between 30-60 seconds to spin up after 15 minutes of inactivity.
 Thank you for your patience! 
 
