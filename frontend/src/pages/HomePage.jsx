@@ -1,11 +1,12 @@
 import React from 'react'
 import NavBar from '../components/NavBar'
 import { useState, useEffect } from 'react'
+import toast from 'react-hot-toast'
+
 import RateLimitedUI from '../components/RateLimitedUI'
 import NotesNotFound from '../components/NotesNotFound'
-
-import toast from 'react-hot-toast'
 import NoteCard from '../components/NoteCard'
+
 import api from '../lib/axios'
 
 const HomePage = () => {
